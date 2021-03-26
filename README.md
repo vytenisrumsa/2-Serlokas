@@ -6,6 +6,4 @@
 
 ## Project features
 - HTML
-- CSS
-- Relative paths
 - Github pages
